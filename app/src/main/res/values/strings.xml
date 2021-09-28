@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Employee manager</string>
+    <string name="employee_male">Male</string>
+    <string name="employee_female">Female</string>
+    <string name="employee_name">Name</string>
+    <string name="employee_dob">Birthday</string>
+    <string name="employee_salary">Salary</string>
+</resources>
